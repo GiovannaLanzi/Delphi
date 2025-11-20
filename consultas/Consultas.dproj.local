@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/29 10:48:17.000.288,=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/01 10:02:12.108,=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/01 10:03:03.085,C:\Users\giovanna.SYSTRADE\Desktop\Consultas\unitPrincipal.pas=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/01 10:03:03.085,C:\Users\giovanna.SYSTRADE\Desktop\Consultas\unitPrincipal.dfm=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/08/01 10:03:08.488,C:\Users\giovanna.SYSTRADE\Desktop\Consultas\Consultas.dproj=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/08/01 10:10:52.518,=C:\Users\giovanna.SYSTRADE\Desktop\Consultas\Unit1.pas</Transaction>
+    <Transaction>2025/08/01 10:11:37.140,C:\Users\giovanna.SYSTRADE\Desktop\Consultas\DM.dfm=C:\Users\giovanna.SYSTRADE\Desktop\Consultas\Unit1.dfm</Transaction>
+    <Transaction>2025/08/01 10:11:37.140,C:\Users\giovanna.SYSTRADE\Desktop\Consultas\DM.pas=C:\Users\giovanna.SYSTRADE\Desktop\Consultas\Unit1.pas</Transaction>
+    <Transaction>2025/08/01 10:13:55.193,=C:\Users\giovanna.SYSTRADE\Desktop\Consultas\Unit2.pas</Transaction>
+    <Transaction>2025/08/01 10:14:28.185,C:\Users\giovanna.SYSTRADE\Desktop\Consultas\dm.pas=C:\Users\giovanna.SYSTRADE\Desktop\Consultas\Unit2.pas</Transaction>
+    <Transaction>2025/08/01 10:14:28.185,C:\Users\giovanna.SYSTRADE\Desktop\Consultas\dm.dfm=C:\Users\giovanna.SYSTRADE\Desktop\Consultas\Unit2.dfm</Transaction>
+    <Transaction>2025/08/01 10:15:22.175,C:\Users\giovanna.SYSTRADE\Desktop\Consultas\dm.pas=</Transaction>
+    <Transaction>2025/08/01 10:15:27.717,=C:\Users\giovanna.SYSTRADE\Desktop\Consultas\Unit1.pas</Transaction>
+    <Transaction>2025/08/01 10:15:41.089,C:\Users\giovanna.SYSTRADE\Desktop\Consultas\unitDM.dfm=C:\Users\giovanna.SYSTRADE\Desktop\Consultas\Unit1.dfm</Transaction>
+    <Transaction>2025/08/01 10:15:41.089,C:\Users\giovanna.SYSTRADE\Desktop\Consultas\unitDM.pas=C:\Users\giovanna.SYSTRADE\Desktop\Consultas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
