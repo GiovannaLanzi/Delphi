@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/29 10:48:17.000.288,=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/01 16:48:12.262,=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/01 16:49:57.599,C:\Users\giovanna.SYSTRADE\Desktop\Usuário e Senha\unitPrincipal.pas=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/01 16:49:57.599,C:\Users\giovanna.SYSTRADE\Desktop\Usuário e Senha\unitPrincipal.dfm=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/08/01 16:50:09.521,C:\Users\giovanna.SYSTRADE\Desktop\Usuário e Senha\usuario_e_senha.dproj=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
