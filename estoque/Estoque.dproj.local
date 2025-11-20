@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/29 10:48:17.000.288,=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/04 09:35:43.000.410,=C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/04 09:36:13.000.696,C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\unitPrincipal.dfm</Transaction>
+    <Transaction>2025/08/04 09:36:13.000.696,C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\unitPrincipal.pas</Transaction>
+    <Transaction>2025/08/04 09:36:24.000.282,C:\Users\giovanna.SYSTRADE\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Estoque.dproj</Transaction>
+    <Transaction>2025/08/04 09:38:26.000.665,=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.pas</Transaction>
+    <Transaction>2025/08/04 09:39:31.000.821,C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.pas=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\unitCadProduto.pas</Transaction>
+    <Transaction>2025/08/04 09:39:31.000.821,C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.dfm=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\unitCadProduto.dfm</Transaction>
+    <Transaction>2025/08/04 09:39:41.000.996,=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.pas</Transaction>
+    <Transaction>2025/08/04 09:40:02.000.331,C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.pas=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\unitCadMovimentacao.pas</Transaction>
+    <Transaction>2025/08/04 09:40:02.000.331,C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.dfm=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\unitCadMovimentacao.dfm</Transaction>
+    <Transaction>2025/08/04 09:40:44.000.550,=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.pas</Transaction>
+    <Transaction>2025/08/04 09:41:39.000.192,C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.pas=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\unitConsMovimentacao.pas</Transaction>
+    <Transaction>2025/08/04 09:41:39.000.192,C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.dfm=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\unitConsMovimentacao.dfm</Transaction>
+    <Transaction>2025/08/04 09:42:39.000.569,=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.pas</Transaction>
+    <Transaction>2025/08/04 09:42:58.000.902,C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.dfm=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\unitDM.dfm</Transaction>
+    <Transaction>2025/08/04 09:42:58.000.902,C:\Users\giovanna.SYSTRADE\Desktop\Estoque\Unit1.pas=C:\Users\giovanna.SYSTRADE\Desktop\Estoque\unitDM.pas</Transaction>
+  </Transactions>
+</BorlandProject>
